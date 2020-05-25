@@ -2,6 +2,8 @@
 
 A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool with character sheet and character creation tools, a compendium of items, features, spells and creatures and campaign management tools.
 
+![screenshot](https://forums.rptools.net/download/file.php?id=10024)
+
 The framework can also be found at https://forums.rptools.net/viewtopic.php?f=85&t=28435
 
 ## Versions
