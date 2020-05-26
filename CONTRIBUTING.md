@@ -17,7 +17,7 @@ If you didn't find an existing issue for the problem, open a new one using the B
 Before oppening a feature request: 
 
 - Check the **Wiki**, maybe the feature is already available.
-- Check if the feature you want is already requested searching on GitHub under Issues.
+- Check if the feature you want is not already requested searching on GitHub under Issues.
 
 If the feature or request doesn't exist, open a new one using the Feature request template and add a **clear title and decription**, include why you think the feature is important and feel free to suggest how to implement it.
 
