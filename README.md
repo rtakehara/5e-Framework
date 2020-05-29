@@ -6,9 +6,9 @@ A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool with charac
 
 The framework can also be found at https://forums.rptools.net/viewtopic.php?f=85&t=28435
 
-## Versions
+## Download Latest Version
 
-The .cmpgn file is all you need to run the framework. Olders versions are still available in case you are facing problems and want to downgrade.
+[5e Framework](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.4.4.cmpgn?raw=true)
 
 ## Resources
 
