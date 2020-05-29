@@ -10,10 +10,6 @@ The framework can also be found at https://forums.rptools.net/viewtopic.php?f=85
 
 [5e Framework v2.4.4](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.4.4.cmpgn?raw=true)
 
-## Resources
-
-This folder contains images and tokens that are not framework-specific, that you can use to create your own campaign.
-
 ## Wiki
 
 Visit the [wiki](https://github.com/rtakehara/5e-Framework/wiki) for more in depth information, help and tutorials.
