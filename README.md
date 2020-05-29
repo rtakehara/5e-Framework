@@ -6,9 +6,9 @@ A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool with charac
 
 The framework can also be found at https://forums.rptools.net/viewtopic.php?f=85&t=28435
 
-## Download Latest Version
+## Download
 
-[5e Framework v2.4.4](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.4.4.cmpgn?raw=true)
+The latest version is [5e Framework v2.4.4](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.4.4.cmpgn?raw=true), check the [Getting Started](https://github.com/rtakehara/5e-Framework/wiki/Getting-Started) to learn the basics, or the [Changelog](https://github.com/rtakehara/5e-Framework/wiki/Changelog) to see what's new.
 
 ## Wiki
 
