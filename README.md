@@ -2,22 +2,21 @@
 
 A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool with character sheet and character creation tools, a compendium of items, features, spells and creatures and campaign management tools.
 
-The framework can also be found at https://forums.rptools.net/viewtopic.php?f=85&t=28435
+## Download
 
-## Versions
+The latest version is [5e Framework v2.4.4](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.4.4.cmpgn?raw=true).
 
-The .cmpgn file is all you need to run the framework. Olders versions are still available in case you are facing problems and want to downgrade.
+Check the [Getting Started](https://github.com/rtakehara/5e-Framework/wiki/Getting-Started) to learn the basics, or the [Changelog](https://github.com/rtakehara/5e-Framework/wiki/Changelog) to see what's new.
 
-## Resources
+![screenshot](https://forums.rptools.net/download/file.php?id=10024)
 
-This folder contains images and tokens that are not framework-specific, that you can use to create your own campaign.
+## Wiki
 
-## Tutorials
+Visit the [wiki](https://github.com/rtakehara/5e-Framework/wiki) for more in depth information, help and tutorials.
 
-This is video uses version 2.4, it covers content creation in general, from manual character creation to equipment, monsters, spells, and adventures. As well as importing and exporting content.
+**Help**
 
-https://youtu.be/U-iQyKN2G08
-
-This older video covers most of the essential features from version 2.0.
-
-https://youtu.be/5Tjg3HXnZpo
+- [Video Tutorials](https://github.com/rtakehara/5e-Framework/wiki/Video-Tutorials)
+- [FAQ](https://github.com/rtakehara/5e-Framework/wiki/FAQ)
+- [Troubleshooting](https://github.com/rtakehara/5e-Framework/wiki/Troubleshooting)
+- [MapTool](https://github.com/rtakehara/5e-Framework/wiki/MapTool)
