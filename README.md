@@ -8,7 +8,7 @@ The latest version is [5e Framework v2.4.6](https://github.com/rtakehara/5e-Fram
 
 Check the [Getting Started](https://github.com/rtakehara/5e-Framework/wiki/Getting-Started) to learn the basics, or the [Changelog](https://github.com/rtakehara/5e-Framework/wiki/Changelog) to see what's new.
 
-![screenshot](https://forums.rptools.net/download/file.php?id=10024)
+![screenshot](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Screenshot_Cover.png)
 
 ## Wiki
 
