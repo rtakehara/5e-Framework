@@ -23,3 +23,6 @@
 |---|---|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Screenshot_Cover.png)|Screenshot_Cover.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Screenshot_Interface.png)|Screenshot_Interface.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Party.png)|Party.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Pin%20Notes.png)|Pin%20Notes.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Encounter.png)|Encounter.png|
