@@ -12,12 +12,15 @@
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/New%20PC.png)|New PC.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Note.png)|Note.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/PC.png)|PC.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Party_Menu.png)|Party_Menu.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Pin.png)|Pin.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Search.png)|Search.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Select%20Map.png)|Select Map.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Settings.png)|Settings.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Wizard.png)|Wizard.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/levelUp.png)|levelUp.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Arrow_Big.png)|Arrow_Big.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Reload.png)|Reload.png|
 
 |Image|File|
 |---|---|
