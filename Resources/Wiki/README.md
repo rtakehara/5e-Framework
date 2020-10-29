@@ -29,3 +29,5 @@
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Party.png)|Party.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Pin%20Notes.png)|Pin%20Notes.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Encounter.png)|Encounter.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Character_Sheet.png)|Character_Sheet.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/NPC_Statblock.png)|NPC_Statblock.png|
