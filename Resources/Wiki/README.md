@@ -31,3 +31,6 @@
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Encounter.png)|Encounter.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Character_Sheet.png)|Character_Sheet.png|
 |![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/NPC_Statblock.png)|NPC_Statblock.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Wizard_Window.png)|Wizard_Window.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Compendium_Class_Table.png)|Compendium_Class_Table.png|
+|![img](https://github.com/rtakehara/5e-Framework/blob/master/Resources/Wiki/Class_Editor.png)|Class_Editor.png|
