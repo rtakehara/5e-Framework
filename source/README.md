@@ -1,5 +1,5 @@
 # Source
 
-testing
+Here will be code from the .cmpgn file for the next version.
 
-new test
+This README should have instructions on how to collaborate, probably...
