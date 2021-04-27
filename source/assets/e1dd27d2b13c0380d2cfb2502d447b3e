@@ -1,0 +1,9 @@
+<net.rptools.maptool.model.Asset>
+  <id>
+    <id>e1dd27d2b13c0380d2cfb2502d447b3e</id>
+  </id>
+  <name>Immobilised</name>
+  <extension>png</extension>
+  <type>image</type>
+  <image/>
+</net.rptools.maptool.model.Asset>

@@ -1,0 +1,9 @@
+<net.rptools.maptool.model.Asset>
+  <id>
+    <id>e201e1e3225804d2d263bf341cfc6cc7</id>
+  </id>
+  <name>Leaf 1</name>
+  <extension>png</extension>
+  <type>image</type>
+  <image/>
+</net.rptools.maptool.model.Asset>

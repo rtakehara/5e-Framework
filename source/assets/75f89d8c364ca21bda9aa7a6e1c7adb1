@@ -1,0 +1,9 @@
+<net.rptools.maptool.model.Asset>
+  <id>
+    <id>75f89d8c364ca21bda9aa7a6e1c7adb1</id>
+  </id>
+  <name>NPC</name>
+  <extension>png</extension>
+  <type>image</type>
+  <image/>
+</net.rptools.maptool.model.Asset>
