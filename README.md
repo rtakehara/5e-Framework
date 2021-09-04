@@ -4,7 +4,7 @@ A comprehensive 5th Edition Dungeons & Dragons Framework for MapTool with charac
 
 ## Download
 
-The latest version is [5e Framework v2.5.6](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.5.6.cmpgn?raw=true). This version requires MapTool version 1.7 or newer.
+The latest version is [5e Framework v2.5.7](https://github.com/rtakehara/5e-Framework/blob/master/Versions/5e%20Framework%202.5.7.cmpgn?raw=true). This version requires MapTool version 1.8 or newer.
 
 Check the [Getting Started](https://github.com/rtakehara/5e-Framework/wiki#getting-started) to learn the basics, or the [Changelog](https://github.com/rtakehara/5e-Framework/wiki/Changelog) to see what's new.
 
