@@ -1,3 +1,0 @@
-# Source
-
-This README should have instructions on how to collaborate, probably...

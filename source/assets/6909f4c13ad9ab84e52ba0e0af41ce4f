@@ -1,9 +1,0 @@
-<net.rptools.maptool.model.Asset>
-  <id>
-    <id>6909f4c13ad9ab84e52ba0e0af41ce4f</id>
-  </id>
-  <name>bitmap</name>
-  <extension>png</extension>
-  <type>image</type>
-  <image/>
-</net.rptools.maptool.model.Asset>
