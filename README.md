@@ -16,6 +16,6 @@ This folder contains images and tokens that are not framework-specific, that you
 
 ## Tutorials
 
-You can check all the framework specific videos in the article about [Video Tutorials](/wiki/Video-Tutorials), as well as generic MapTool tutorials.
+You can check all the framework specific videos in the article about [Video Tutorials](/5e-Framework/wiki/Video-Tutorials), as well as generic MapTool tutorials.
 
-Other than that, you can find help on various tools at the [wiki](/wiki).
+Other than that, you can find help on various tools at the [wiki](/5e-Framework/wiki).
