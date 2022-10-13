@@ -16,10 +16,6 @@ This folder contains images and tokens that are not framework-specific, that you
 
 ## Tutorials
 
-This is video uses version 2.4, it covers content creation in general, from manual character creation to equipment, monsters, spells, and adventures. As well as importing and exporting content.
+You can check all the framework specific videos in the article about [Video Tutorials](/wiki/Video-Tutorials), as well as generic MapTool tutorials.
 
-https://youtu.be/U-iQyKN2G08
-
-This older video covers most of the essential features from version 2.0.
-
-https://youtu.be/5Tjg3HXnZpo
+Other than that, you can find help on various tools at the [wiki](/wiki).
